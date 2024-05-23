@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: project-AhmetBozkir-AsmaAlrefaei
+Version: 0.1
+Summary: A package for various data preprocessing and feature engineering tasks.
+Home-page: file://.
+Author: Ahmet Bozkir, Asma Alrefaei
+Author-email: ahmbozkir@gmail.com, asma.o.alrifai@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: nltk
